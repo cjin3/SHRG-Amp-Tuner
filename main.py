@@ -7,6 +7,9 @@ FUND_HZ_LO = 40
 FUND_HZ_HI = 400
 STRINGS = 4
 
+#Known note frequencies (Hz)
+
+
 def main():
     pass
     
